@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.boreboar.plugattempt1.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.boreboar.plugattempt1.MyBundle
 
 class MyApplicationService {
 
